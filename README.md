@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-__TOC__
-
 Versatile engineering leader. Experience design and developing system services, network services, distributed systems, cloud infrastructure, and service operations. Experience with containers, kubernetes, C/C++/C#, golang, kotlin, and python. Responsible people manager and dependable engineer.
 
 ## Professional experience
@@ -40,22 +38,22 @@ Information Management Group, Software Engineer
 STARC-, Information Systems Analyst/Operator (MOS 74B)
 
 ## Summary of projects
-* **Temporal Technology** -
+* **Temporal Technology**\
   OSS temporal core contributor. Responsible for network cluster formation, developer tooling, dependency inversion, and telemetry instrumentation. GRPC refactoring and modernization. Operations improvements for full OSS deployment toolchain. Modernization of container construction, reducing runtime dependencies, and simplification of local and CI/CD integration tests.
   
-* **Microsoft** -
+* **Microsoft**\
   Managed a team of 7 engineers developing and operating a distributed query API service, globally available and powering dashboards responsible for surfacing metrics for the windows insider channels telemetry pipeline. Implemented a clustered workflow engine to operate the machine lifecycle for Azure fleet of hardware as autonomous FSA. 
   
-* **OpenRaven** -
+* **OpenRaven**\
   Owner of services responsible for materializing a resource graph and datastores for arbitrary query of the resource graph. Operations and maintenance for a fleet of kubernetes clusters and dependencies.
   
-* **HPE** -
+* **HPE**\
   Maintained OSS cluster/node controller for the EUCALYPTUS private cloud stack. Introduced live migration of libvirt domains between nodes, and performance improvements on network configuration propagation. Implemented POC of containerized workload management.
   
-* **Rackspace** -
+* **Rackspace**\
   Lead developer for the JungleDisk multi platform client software and cloud microservices. Refactoring and modernization of code base after ~2 years of no developer focus. Achieved the first release with modernized UI, refactor of legacy microservices to golang, introduced pattern for operating and observing service health, and telemetry insights for client usage.
   
-* **Symantec** -
+* **Symantec**\
   Core developer from POC to EOL for first generation cloud backup service. Local filesystem tracking, file system filter driver, structured file format ownership, and data lifecycle enabled object storage. Ownership of embedded database management, Berkeley DB, SQLite, Sybase Ultralite
 
 ## Achievements
