@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Versatile engineering leader. Experience design and developing system services, network services, distributed systems, cloud infrastructure, and service operations. Experience with containers, kubernetes, C/C++/C#, golang, kotlin, and python. Responsible people manager and dependable engineer.
+Versatile engineering leader. Experience design and developing system services, network services, distributed systems, cloud infrastructure, and service operations. Experience with containers, kubernetes, C/C++/C#, Go, Kotlin, and Python. Responsible people manager and dependable engineer.
 
 ## Professional experience
 * **Crowdstrike** - (7/2022 - present)
